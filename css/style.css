@@ -2071,7 +2071,7 @@ video {
 	.footer h2 a {
 		font-size: 1em;
 		line-height: 25px;
-		background:url(../images/1.png) no-repeat 0px 6px;
+		/*background:url(../images/1.png) no-repeat 0px 6px;*/
 		background-size: 25%;
 	}
 	.footer h3 {
